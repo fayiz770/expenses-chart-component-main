@@ -1,7 +1,7 @@
 # Frontend Mentor - Expenses chart component
 
 ![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)
-
+# [Live demo](https://lambent-caramel-b3685f.netlify.app/) 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
